@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Genshin Font";
+    src: url("zh-cn.ttf");
+}
+
+body {
+    font-family: "Genshin Font";
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+#column1 {
+    height: 1500px;
+    width: 25%;
+    background-color: #1D184E;
+    outline: #1D184E solid 10px;
+}
+
+p {
+    text-align: center;
+    color: #F8E5EE;
+
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+    font-size: 48px;
+    color: #F8E5EE;
+    background-color: #1D184E;
+    height: 70px;
+    outline: #1D184E solid 10px;
+
+
+}
+
+h3 {
+    text-align: center;
+    color: #1D184E;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#column3 {
+    height: 1500px;
+    width: 25%;
+    background-color: #1D184E;
+    outline: #1D184E solid 10px;
+
+}
+
+p {
+    text-align: center;
+    color: #F8E5EE;
+}
